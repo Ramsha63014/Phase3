@@ -21,14 +21,12 @@ refine your design.
 
 ### Scenarios
 
-- Ali is trying to educate his class well. He wants to use a technology that provides a framework for student discussion of the subject. So that he can easily solve students query that occurs during lecture and a technology that can save details such as, details about meeting (when and what time to hold a meeting), details about attendance because as a teacher he has to maintain records of sttudents.
+- Ali is trying to educate his class well. He wants to use a technology that provides a framework for student discussion of the subject. So that he can easily solve students query that occurs during lecture and a technology that can save details such as, details about meeting (when and what time to hold a meeting), details about attendance because as a teacher he has to maintain records of sttudents. He searched and downloaded an application which would help him in maintaining his need and tasks. As he downloaded the app on his device it opens and loads the application when the app is started he interacted with the multiple options provided for the users for ease.
 
-- Hina is trying to facilitate more productive ideas for her class. She wants the app to be engaging for children and educational so they are learning while having fun and wants the app to encourage the children to look around. 
-
+- Hina is trying to facilitate more productive ideas for her class. She wants the app to be engaging for children and educational so they are learning while having fun and wants the app to encourage the children to look around. She wants giver student an opportunity to work in group. They have their first project meeting and using ordinary mobile whiteboards and markers to write and draw on and a camera to photograph the process. Students document their work, such as brainstorming, sketching concepts, creation of a work, etc. She downloaded an app which has a user friendly environment, she interact with different features and found them useful. 
 
 
 ### Storyboard
-
 
 
 
@@ -38,6 +36,46 @@ refine your design.
 
 #### Login page
 ![Wireframe1](https://github.com/Ramsha63014/Phase3/blob/master/wf1.PNG)
+
+#### Manage Classes
+![Wireframe2](https://github.com/Ramsha63014/Phase3/blob/master/wf2.PNG)
+
+![Wireframe3](https://github.com/Ramsha63014/Phase3/blob/master/wf3.PNG)
+
+![Wireframe4](https://github.com/Ramsha63014/Phase3/blob/master/wf4.PNG)
+
+#### Assignments/Task
+![Wireframe5](https://github.com/Ramsha63014/Phase3/blob/master/wf5.PNG)
+
+![Wireframe6](https://github.com/Ramsha63014/Phase3/blob/master/wf6.PNG)
+
+![Wireframe7](https://github.com/Ramsha63014/Phase3/blob/master/wf7.PNG)
+
+### Start Lecture
+![Wireframe8](https://github.com/Ramsha63014/Phase3/blob/master/wf8.PNG)
+
+### Quiz
+![Wireframe9](https://github.com/Ramsha63014/Phase3/blob/master/wf9.PNG)
+
+![Wireframe10](https://github.com/Ramsha63014/Phase3/blob/master/wf10.PNG)
+
+![Wireframe11](https://github.com/Ramsha63014/Phase3/blob/master/wf11.PNG)
+
+### Upload Lecture
+![Wireframe12](https://github.com/Ramsha63014/Phase3/blob/master/wf12.PNG)
+
+![Wireframe13](https://github.com/Ramsha63014/Phase3/blob/master/wf13.PNG)
+
+![Wireframe14](https://github.com/Ramsha63014/Phase3/blob/master/wf14.PNG)
+
+### Manage Student
+![Wireframe15](https://github.com/Ramsha63014/Phase3/blob/master/wf15.PNG)
+
+![Wireframe16](https://github.com/Ramsha63014/Phase3/blob/master/wf16.PNG)
+
+![Wireframe17](https://github.com/Ramsha63014/Phase3/blob/master/wf17.PNG)
+
+
 
 Now you will move towards more mature prototypes for the final design you have selected.
 - Wireframes (powerpoint or any other tool)
