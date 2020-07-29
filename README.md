@@ -25,8 +25,3 @@ Explain using HCI concepts, the reason for key design features in your interface
 ## Evaluation
 Get the prototypes evaluated by someone in your family or circle get detailed feedback.
 
-## Submission Instructions
-1) Submit the Github link to your repository on LMS
-2) Make another .md file by the name Phase3 in the repository.
-3) Add the elements of phase 3 as mentioned above in this md file.
-4) Upload relevant material in a folder Phase3 in your repository.
