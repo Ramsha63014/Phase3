@@ -13,8 +13,28 @@ By now you have studied all design principles. Using them and tools previously d
 - etc.
 refine your design.
 
+### Personas
+
+- Ali is 28 years old. He is a High school science teacher. His goal is to teach his high school students about geologic diversity within their company and to make the course material more exciting through the visuals and exploration. His obstacles is that students often need some kind of visuals to understand or get excited about course material. 
+
+- Hina is 39 years old. She is a Primary school teacher. She has a son son 12 years old and a daugter 17 years old. She encourages her child to use technology to help with their work. Her goal is to make learning fun and interactive, to use the latest technology when teaching, and to make her subjects simple and easy to understand as possilble. 
+
+### Scenarios
+
+- Ali is trying to educate his class well. He wants to use a technology that provides a framework for student discussion of the subject. So that he can easily solve students query that occurs during lecture and a technology that can save details such as, details about meeting (when and what time to hold a meeting), details about attendance because as a teacher he has to maintain records of sttudents.
+
+- Hina is trying to facilitate more productive ideas for her class. She wants the app to be engaging for children and educational so they are learning while having fun and wants the app to encourage the children to look around. 
+
+
+
+### Storyboard
+
+
+
 
 ## Prototyping
+### Wireframes
+
 Now you will move towards more mature prototypes for the final design you have selected.
 - Wireframes (powerpoint or any other tool)
 - physical prototypes 
