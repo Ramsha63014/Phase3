@@ -1,7 +1,9 @@
 # Project Phase 3: Second Iteration - Final
 
 ## Need Finding
-The prototypes you designed in previous iterations must have given you some new insight to your design. Use them to help you select your FINAL design.
+In online classes, teachers are suddenly faced with the challenge of how to continue their student's education. While this might seem a difficult task, there are several ways in which teachers can utilise the technology and resources already available to support online learning and ensure students still receive a quality education. 
+There is no size to fit when it comes to learning (important). Different groups have different priorities and the resources that should be used are context-dependent. There are also special considerations to think about for students with Special Educational Needs and Disabilities (SEND), and for students who might not have access to high-speed broadband.
+However, teachers should take some comfort in the fact that there are hundreds of online resources to guide them as to how to teach online. I have rounded up some of the best here to help ease the transition from the classroom to the web.
 
 
 ## Design Alternatives
