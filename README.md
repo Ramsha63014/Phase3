@@ -7,11 +7,6 @@ However, teachers should take some comfort in the fact that there are hundreds o
 
 
 ## Design Alternatives
-By now you have studied all design principles. Using them and tools previously discussed 
-- personas
-- scenarios/storyboarding
-- etc.
-refine your design.
 
 ### Personas
 
@@ -37,41 +32,41 @@ refine your design.
 
 ### Wireframes
 
-#### Login page
+#### Login page:
 ![Wireframe1](https://github.com/Ramsha63014/Phase3/blob/master/wf1.PNG)
 
-#### Manage Classes
+#### Manage Classes:
 ![Wireframe2](https://github.com/Ramsha63014/Phase3/blob/master/wf2.PNG)
 
 ![Wireframe3](https://github.com/Ramsha63014/Phase3/blob/master/wf3.PNG)
 
 ![Wireframe4](https://github.com/Ramsha63014/Phase3/blob/master/wf4.PNG)
 
-#### Assignments/Task
+#### Assignments/Task:
 ![Wireframe5](https://github.com/Ramsha63014/Phase3/blob/master/wf5.PNG)
 
 ![Wireframe6](https://github.com/Ramsha63014/Phase3/blob/master/wf6.PNG)
 
 ![Wireframe7](https://github.com/Ramsha63014/Phase3/blob/master/wf7.PNG)
 
-### Start Lecture
+### Start Lecture:
 ![Wireframe8](https://github.com/Ramsha63014/Phase3/blob/master/wf8.PNG)
 
-### Quiz
+### Quiz:
 ![Wireframe9](https://github.com/Ramsha63014/Phase3/blob/master/wf9.PNG)
 
 ![Wireframe10](https://github.com/Ramsha63014/Phase3/blob/master/wf10.PNG)
 
 ![Wireframe11](https://github.com/Ramsha63014/Phase3/blob/master/wf11.PNG)
 
-### Upload Lecture
+### Upload Lecture:
 ![Wireframe12](https://github.com/Ramsha63014/Phase3/blob/master/wf12.PNG)
 
 ![Wireframe13](https://github.com/Ramsha63014/Phase3/blob/master/wf13.PNG)
 
 ![Wireframe14](https://github.com/Ramsha63014/Phase3/blob/master/wf14.PNG)
 
-### Manage Student
+### Manage Student:
 ![Wireframe15](https://github.com/Ramsha63014/Phase3/blob/master/wf15.PNG)
 
 ![Wireframe16](https://github.com/Ramsha63014/Phase3/blob/master/wf16.PNG)
