@@ -28,6 +28,9 @@ refine your design.
 
 ### Storyboard
 
+![Storyboard1](https://github.com/Ramsha63014/Phase3/blob/master/sb1.jpg)
+
+![Storyboard2](https://github.com/Ramsha63014/Phase3/blob/master/sb2.jpg)
 
 
 ## Prototyping
