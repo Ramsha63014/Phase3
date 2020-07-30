@@ -75,6 +75,24 @@ However, teachers should take some comfort in the fact that there are hundreds o
 
 
 
+### Physical prototypes
+
+![Physicalprototype1](https://github.com/Ramsha63014/Phase3/blob/master/pp1.jpg)
+
+![Physicalprototype2](https://github.com/Ramsha63014/Phase3/blob/master/pp2.jpg)
+
+![Physicalprototype3](https://github.com/Ramsha63014/Phase3/blob/master/pp3.jpg)
+
+![Physicalprototype4](https://github.com/Ramsha63014/Phase3/blob/master/pp4.jpg)
+
+![Physicalprototype5](https://github.com/Ramsha63014/Phase3/blob/master/pp5.jpg)
+
+![Physicalprototype6](https://github.com/Ramsha63014/Phase3/blob/master/pp6.jpg)
+
+![Physicalprototype7](https://github.com/Ramsha63014/Phase3/blob/master/pp7.jpg)
+
+
+
 
 ## Using HCI concepts, the reason for key design features in this interface.
 
