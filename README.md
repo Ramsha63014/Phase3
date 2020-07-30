@@ -76,7 +76,7 @@ However, teachers should take some comfort in the fact that there are hundreds o
 
 
 
-## Using HCI concepts, the reason for key design features in your interface.
+## Using HCI concepts, the reason for key design features in this interface.
 
 Human-Computer Interaction (HCI) is an area of interdisciplinary research that focuses on developing computer technology and, in particular, interactions between humans (users) and computers. Initially, HCI was primarily concerned with computers, and now covers almost all forms of information technology design. It is the academic discipline that most of us think of as UI design.
 
