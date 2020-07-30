@@ -81,7 +81,17 @@ Now you will move towards more mature prototypes for the final design you have s
 - Window navigation transition hierarchy
 Explain using HCI concepts, the reason for key design features in your interface.
 
+Human-Computer Interaction (HCI) is an area of interdisciplinary research that focuses on developing computer technology and, in particular, interactions between humans (users) and computers. Initially, HCI was primarily concerned with computers, and now covers almost all forms of information technology design. It is the academic discipline that most of us think of as UI design.
 
-## Evaluation
-Get the prototypes evaluated by someone in your family or circle get detailed feedback.
+I have worked and finalized my design on Teacher's activities. My designed application helps user in this aspect:
+- Dicoverability: There are relevant options in my design which help user to perfom certain tasks.
 
+- Simplicity: User can understand my application easily. It is simple design with options that can help user to achieve their tasks easily and help them, managing their daily needs.
+
+- Affordance: It is used in the design as user can detect how certain options should work.
+
+- Perceptibility: In manage student interface, it helps the user to find what meeting is placed against that date simply by clicking on that date. Detailed note for that meeting can be seen by the user and can be edited and he can also share this meeting with other users.
+
+- Flexibility: I have provided different forms of views in which user and system exchange information. User are been provided meeting options that only user can view all the activities marked on the calender along with the current date and time mentioned, these activities date are marked different so that the user can easily have a look on all of their meetings.
+
+- Ease and Comfort: My design is to encourage people to read with interest.
